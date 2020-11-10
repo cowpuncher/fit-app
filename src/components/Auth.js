@@ -1,9 +1,9 @@
-import Input from '../elemets/Input'
-import Button from '../elemets/Button'
-import Link from '../elemets/Link'
-import vk from '../../images/icons/vk.svg'
-import google from '../../images/icons/google.svg'
-import facebook from '../../images/icons/facebook.svg'
+import Input from './elemets/Input'
+import Button from './elemets/Button'
+import Link from './elemets/Link'
+import vk from '../images/icons/vk.svg'
+import google from '../images/icons/google.svg'
+import facebook from '../images/icons/facebook.svg'
 
 const Auth = props => {
     return (
