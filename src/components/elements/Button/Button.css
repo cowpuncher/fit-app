@@ -1,0 +1,17 @@
+.btn-form {
+    width: 296px;
+    display: block;
+    border-radius: 8px;
+    background-color: #4a8ec2;
+    border: none;
+    text-align: center;
+    padding: 11px 0;
+    color: #fff;
+    font-size: 17px;
+    line-height: 22px;
+    font-weight: 700;
+    letter-spacing: -0.41px;
+    cursor: pointer;
+    margin-top: 19px;
+    outline: none;
+}

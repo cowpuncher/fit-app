@@ -54,3 +54,42 @@
         -ms-flex-pack: center;
             justify-content: center;
 }
+
+.sign-login {
+    margin: 72px 0 7px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 254px;
+}
+
+.sign-login .btn {
+    width: 100px;
+    display: block;
+    padding: 7px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 14.06px;
+    font-weight: 500;
+    border-radius: 6px;
+    border: none;
+    color: #4a8ec2;
+    cursor: pointer;
+    outline: none;
+}
+
+.sign-login .btn.active {
+    background-color: #4a8ec2;
+    color: #fff;
+}
+
+.social-info {
+    margin-top: 24px;
+}
+
+.social-info span {
+    font-size: 14px;
+    line-height: 18px;
+    color: #6d7885;
+    letter-spacing: -0.154px;
+}

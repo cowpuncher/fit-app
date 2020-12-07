@@ -1,8 +1,9 @@
-import logo from '../../images/icons/logo.svg'
+import logo from '../../../images/icons/logo.svg';
+import './Logo.css';
 
 const Logo = () => {
     return(
-        <div>
+        <div className="logo">
             <img src={logo}/>
         </div>
     );

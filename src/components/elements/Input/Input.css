@@ -1,0 +1,16 @@
+.input {
+    outline: none;
+    padding: 12px;
+    display: block;
+    width: 296px;
+    font: 400 16px 'PT Sans', sans-serif;
+    line-height: 20px;
+    color: #A8AEB6;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: 0.5px solid rgba(0,0,0,0.14);
+}
+
+.input:not(:last-of-type) {
+    margin-bottom: 14px;
+}
