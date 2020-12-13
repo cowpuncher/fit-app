@@ -1,0 +1,65 @@
+.settings-page {
+    background-color: #EFEFEF;
+    height: 100vh;
+}
+
+.settings-page__header {
+    padding: 11px 19px 16px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+            margin-bottom: 8px;
+}
+
+.settings-page__header a {
+    display: block;
+}
+
+.settings-page h2 {
+    color: #336DA5;
+    font-size: 19px;
+    line-height: 25px;
+    text-align: center;
+    margin: 0;
+    width: 100%;
+}
+
+.settings-page__list {
+    padding-left: 38px;
+}
+
+.settings-page__list a {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: start;
+        -ms-flex-align: start;
+            align-items: flex-start;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    text-decoration: none;
+    width: 100%;
+    padding-top: 17px;
+    font-size: 14px;
+    color: #000;
+    line-height: 18px;
+}
+
+.settings-page__info-wrap {
+    width: 70%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: start;
+        -ms-flex-align: start;
+            align-items: flex-start;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+            padding: 0 29px 23px 0;
+            border-bottom: 0.3px solid #C7D0DC;
+}
